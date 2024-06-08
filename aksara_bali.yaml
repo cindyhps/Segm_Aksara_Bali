@@ -1,0 +1,107 @@
+batch: 8
+names:
+- Carik
+- Carik kalih
+- taling
+- panti
+- cecek
+- pamada
+- pamada
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- a-kara
+- a_kara tedong
+- i-kara
+- i-kara tedong
+- u-kara
+- u-kara tedong
+- e-kara
+- je-jera
+- o-kara
+- o-kara tedong
+- Ha
+- Na
+- Ca
+- Ra
+- Ka
+- Da
+- Ta
+- Sa
+- Wa
+- La
+- Ma
+- Ga
+- Ba
+- Nga
+- Pa
+- Ja
+- Ya
+- Nya
+- Na Rambat
+- Da Madu
+- Ta Tawa
+- Ta Latik
+- Sa Saga
+- Sa Sapa
+- Ga Gora
+- Ba Kembang
+- Pa Kapal
+- Ca Laca
+- Kha
+- Taleng
+- Ulu
+- Ulu Sari
+- Suku
+- Suku Ilut
+- Taleng
+- Taleng Marepa
+- Taleng Tedong
+- Taleng Marepa Tedong
+- Pepet
+- Pepet Tedong
+- Ulu Candra
+- Ulu Ricem
+- Cecek
+- Surang
+- Bisah
+- Adeg-adeg
+- Gantungan A/Ha
+- Gantungan Na
+- Gantungan Ca
+- Gantungan Ra
+- Gantungan Ka
+- Gantungan Da
+- Gantungan Ta
+- Gempelan Sa
+- Gantungan Wa
+- Gantungan La
+- Gantungan Ma
+- Gantungan Ga
+- Gantungan Ba
+- Gantungan Nga
+- Gempelan Pa
+- Gantungan Ja
+- Gantungan Ya
+- Gantungan Nya
+- Gantungan Na Rambat
+- Gantungan Da Madu
+- Guung Mecelek
+- Gantungan Ta Latik
+- Gantungan Sa Saga
+- Gempelan Sa Sapa
+- Ga Gora
+- Gantunga Ba Kembang
+- Gantungan Ta Latik
+- Gantungan Ca Laca
+- Gantungan Kha
+nc: 102
+train: D:\Kampus\Semester 4\MBKM Dago AI and Web\Aksara Bali\Segm_Aksara_Bali\dataset\images\train
+val: D:\Kampus\Semester 4\MBKM Dago AI and Web\Aksara Bali\Segm_Aksara_Bali\dataset\images\val
